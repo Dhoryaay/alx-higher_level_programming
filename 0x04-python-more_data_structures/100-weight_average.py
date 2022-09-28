@@ -11,4 +11,3 @@ def weight_average(my_list=[]):
         avg += (tup[0] * tup[1])
         size += tup[1]
     return (avg / size)
-Foote
