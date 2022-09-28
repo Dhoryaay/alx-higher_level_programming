@@ -1,5 +1,5 @@
-# Auth: Solomon John Doye
 #!/usr/bin/python3
+# Auth: Solomon John Doye
 
 def roman_to_int(roman_string):
     """Converts a roman numeral to an integer."""
